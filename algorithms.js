@@ -139,7 +139,7 @@ console.log(detectOutlierValue([2, 4, 6, 10, 11, 14]));
 
 /************************************************************/
 
- //Find target pari for sum
+ //Find target pair for sum
 
  /************************************************************/
 var findPairForSum = function (array, sum) {
@@ -269,7 +269,7 @@ console.log(matchingCharacters("hello", "hew"));
 
 /************************************************************/
 
- //Remove Falsy Values
+ //Remove Falsey Values
 
  /************************************************************/
 
@@ -327,7 +327,7 @@ console.log(rot13("NYGPNQRZL"));
 // -> ALTCADEMY
 /************************************************************/
 
- //Diff Two Arryays
+ //Diff Two Arrays
 
  /************************************************************/
 
@@ -355,7 +355,7 @@ console.log(rot13("NYGPNQRZL"));
 
 /************************************************************/
 
- //Roman Numberals
+ //Roman Numerals
 
  /************************************************************/
 
@@ -530,7 +530,7 @@ console.log(sumPrimes(977));
 
 /************************************************************/
 
- //Smallest common multipls w/ range.
+ //Smallest common multiples w/ range.
 
  /************************************************************/
 
